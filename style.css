@@ -166,6 +166,12 @@ img {width: 280px; margin: 5px auto;}
  
 }
 
+.col.active {
+     display: block;
+     color: red;
+     background-color: #ee0;
+}
+
 .col:focus {
      display: block;
      color: #red; /* old red; */

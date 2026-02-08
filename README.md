@@ -22,3 +22,8 @@ Simply open `index.html` in a web browser to view the Kick Off 2 menu.
 * Clean, responsive HTML5 recreation of the classic Kick Off 2 game menu
 * Mobile-friendly design with responsive grid layout
 * Hover effects on menu items
+* Keyboard navigation with arrow keys and space to select
+
+# Keyboard Controls
+* **Arrow Keys (↑ ↓ ← →)** - Navigate the menu
+* **Space** - Select the highlighted menu item
