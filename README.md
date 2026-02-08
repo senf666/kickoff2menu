@@ -10,5 +10,10 @@ Html & css Durban.
 
 Css update Danny.
 
-# To Do 
-* Implement keyboard bindings (possibly using http://dmauro.github.io/Keypress/ )
+# Usage
+Simply open `index.html` in a web browser to view the Kick Off 2 menu.
+
+# Features
+* Clean, responsive HTML5 recreation of the classic Kick Off 2 game menu
+* Mobile-friendly design with responsive grid layout
+* Hover effects on menu items
