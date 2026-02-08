@@ -5,6 +5,9 @@ Mobile friendly of course because this isn't 1990 anymore!
 
 ![Kick Off 2 menu](images/menu.png?raw=true)		
 
+# Live Demo
+View the live site at: http://senf666.github.io/kickoff2menu/
+
 # Credits
 Html & css Durban.
 
