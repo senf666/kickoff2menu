@@ -3,6 +3,8 @@ The Kick Off 2 menu recreated in html 5.
 
 Mobile friendly of course because this isn't 1990 anymore!
 
+For more information about the original game, see [Kick Off 2 on Wikipedia](https://en.wikipedia.org/wiki/Kick_Off_2)
+
 ![Kick Off 2 menu](images/menu.png?raw=true)		
 
 # Live Demo
